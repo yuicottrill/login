@@ -94,6 +94,7 @@ div.campo> input{
 }
 
 div.campo > input:focus-within{
+    outline: none;
     background-color: white;
 }
 #div#Formulário > p{
